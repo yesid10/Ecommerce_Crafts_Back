@@ -18,6 +18,7 @@ public class Usuario {
     private String email;
     private String password;
     private String rol;
+    private String imageUrl;
 
 
 }
